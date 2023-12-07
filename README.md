@@ -1,4 +1,4 @@
-### Hi there!
+### 👋 Hi there!
 ### Employment status: Currently unemployed
 ### Currently learning new technologies, creating practice projects, sharpening my software development skills etc...
 ### Skills
@@ -21,4 +21,4 @@
 * Flutter/Dart 
 * Golang
 
-![Your Contribution Graph](https://github.com/users/your-username/contributions)
+![Your Contribution Graph](https://github.com/users/rostovic/contributions)
