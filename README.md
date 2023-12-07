@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-### Employment status: Currently unemployed
+### Employment status: Unemployed
 ### Currently learning new technologies, creating practice projects, sharpening my software development skills etc...
 ### Skills
 * JavaScript
