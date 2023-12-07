@@ -16,6 +16,9 @@
 * MySQL
 * MongoDB
 
-### Next technologies I will be learning include Java, Flutter/Dart, Golang
+### Next technologies I will be learning include 
+* Java
+* Flutter/Dart 
+* Golang
 
 ![Your Contribution Graph](https://github.com/users/your-username/contributions)
