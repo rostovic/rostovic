@@ -1,6 +1,8 @@
 ### 👋 Hi there!
+
 ### Employment status: Unemployed
-### Currently learning new technologies, creating practice projects, sharpening my software development skills etc...
+### I am currently involved in exploring and learning new technologies and creating practice projects
+
 ### Skills
 * JavaScript
 * React 
@@ -8,6 +10,7 @@
 * NodeJS (ExpressJS)
 * HTML+CSS
 * MS SQL Server
+
 ### Familiar with
 * TypeScript
 * C++
