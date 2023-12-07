@@ -1,6 +1,5 @@
 ### 👋 Hi there!
 
-### Employment status: Unemployed
 ### I am currently involved in exploring and learning new technologies and creating practice projects
 
 ### Skills
