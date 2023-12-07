@@ -24,4 +24,3 @@
 * Flutter/Dart 
 * Golang
 
-![Your Contribution Graph](https://github.com/users/rostovic/contributions)
