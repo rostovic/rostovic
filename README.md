@@ -19,7 +19,7 @@
 * MySQL
 * MongoDB
 
-### Next technologies I will be learning include 
+### Interested in
 * Java
 * Flutter/Dart 
 * Golang
