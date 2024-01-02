@@ -3,7 +3,7 @@
 ### I am currently involved in exploring and learning new technologies and creating practice projects
 
 ### Skills
-* [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)JavaScript
+* JavaScript
 * React 
 * React Native
 * NodeJS (ExpressJS)
