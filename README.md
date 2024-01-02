@@ -9,6 +9,7 @@ JavaScript - React - React Native - NodeJS - ExpressJS - HTML - CSS - MS SQL Ser
 
 ### Familiar with
 TypeScript - C++ - C# - .NET framework - GraphQL - MySQL - MongoDB
+
 ![My Skills](https://skillicons.dev/icons?i=typescript,cpp,cs,net,graphql,mysql,mongodb)
 ### Interested in
 * Java
