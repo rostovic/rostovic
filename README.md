@@ -10,6 +10,8 @@
 * HTML+CSS
 * MS SQL Server
 
+[[![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)](https://skillicons.dev/icons?i=javascript,react,nodejs,expressjs,html,css)
+
 ### Familiar with
 * TypeScript
 * C++
