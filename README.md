@@ -10,7 +10,7 @@
 ### Familiar with
 ### TypeScript - C++ - C# - .NET framework - GraphQL - MySQL - MongoDB
 
-![My Skills](https://skillicons.dev/icons?i=typescript,cpp,cs,net,graphql,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=typescript,cpp,cs,net,graphql,mysql,mongodb,blender)
 ### Interested in
 Java - Flutter/Dart - Golang
 
