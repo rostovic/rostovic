@@ -11,8 +11,3 @@
 ### TypeScript - C++ - C# - .NET framework - GraphQL - MySQL - MongoDB - Blender
 
 ![My Skills](https://skillicons.dev/icons?i=typescript,cpp,cs,net,graphql,mysql,mongodb,blender)
-### Interested in
-Java - Flutter/Dart - Golang
-
-![My Skills](https://skillicons.dev/icons?i=java,flutter,golang)
-
